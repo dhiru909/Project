@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="clock">Clock</string>
+    <string name="xo">Tic Tac Toe</string>
+    <string name="title_activity_clock">Clock</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stop_watch">Stop Watch\n</string>
+    <string name="timer">Timer</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Stop</string>
+    <string name="Logout">Logout</string>
+</resources>
